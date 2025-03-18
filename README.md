@@ -20,5 +20,5 @@ Step 3: Install Required Dependencies <br> Run the following command to install 
 ```bash
 pip install -r requirements.txt
 ```
-Step 4: Run The Titanic-Survival-Prediction.ipynb file <br> Each task is inside its dedicated folder. Open and run the corresponding Jupyter Notebook file. <br>
+Step 4: Run The Titanic-Survival-Prediction.ipynb file <br> Each task is inside its jupyter notebook file. Open and run the corresponding Jupyter Notebook file. <br>
 
